@@ -9,3 +9,6 @@ The goal of the project is to build from scratch a simple audio amplifier in ord
 - **Push-pull final stage thermal runaway**, biasing BJTs with fixed base-emitter voltage cause high dependance on temperature. Introduce emitter resistance to counteract.
 - Compensate for Loudspeaker increasing impedance over audio bandwidth with a **Zobel network**.
 - Avoid **loop instability** (output stage).
+
+## Soldered PCB image:
+![img](amp2.jpg)
